@@ -1,0 +1,6 @@
+PROJECTID=<google project id>
+COLLECTION_NAME=<firestore collection name>
+ACCOUNT_NUMBER=<banco inter account number>
+OPERATOR_NUMBER=<banco inter operator name>
+PASSWORD=<banco inter account password>
+CNPJ=<cnpj company>
